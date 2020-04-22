@@ -4,6 +4,8 @@
 
 ## Structure
 
+![image-20200422145948905](src/image-20200422145948905.png)
+
 OS is Ubuntu latest verision
 
 * JRE/JDK on top of Ubuntu
