@@ -1,4 +1,18 @@
-# Django & Konlpy for Docker Deployment to AWS
+# docker_konlpy_django
+
+Django & Konlpy combine docker image for AWS deployment
+
+## Installation && Usage
+
+```bash
+docker image build .
+```
+
+or
+
+```
+docker image pull snoop2head/django_konlpy_postgres
+```
 
 
 
